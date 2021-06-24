@@ -1,0 +1,734 @@
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("101", "UMIDIGI A9 Pro", "https://images-na.ssl-images-amazon.com/images/I/71Du8QCeYcL._AC_SL1500_.jpg", "[Sony 32MP Quad Camera] A9 Pro smartphone with Sony 32MP main camera, 16MP ultra-wide angle, 5MP depth camera and 5MP macro camera. The Sony 32MP camera has incredible light-sensing ability and comes with a 1/2"" large size sensor, supporting Quad Bayer, pixel size up to 1.6μm. Your pictures will come out bright even in low light. With a dramatic 120 ° field of view from a 16MP ultra-wide-angle camera, you can shoot clearer and wider landscapes.
+[Helio P60 Octa-Core Processor&4GB + 64GB] A9 Pro unlocked smartphone is equipped with a high-performance Helio P60 octa-core processor with a maximum clock speed of 2.0GHz, for the seamless gaming experience you never have before in this price range. With up to 6GB + 128GB supported, the advanced LPDDR4X standard and UFS 2.1 flash storage greatly improve overall performance and reduce power consumption. Now web browsing and gaming can be smooth like never before.
+[6.3"" FHD+ full screen android cell phone] UMIDIGI A9 Pro have a cinematic viewing experience with a 19.5:9 aspect ratio 6.3'''' FHD+ Full Screen display. Coupled with in-cell and LTPS technology, it’s a flagship-level display that is of distinct clarity and vivid colour. And we have designed a range of finishes to match your personality and style. The 2.5D glass back with a metal frame makes the phone looks more premium.
+[4150mAh High-capacity Battery] UMIDIGI A9 Pro unlocked phone is powered by a 4150mAh high-capacity battery. It provides excellent power efficiency. you can easily go through 2 days of daily use. Charging port is replaced with new type-C plug, you could have more choice in adapters.
+[Global LTE band and one year warranty] UMIDIGI A9 Pro supports various global bands. No matter where you live or travel, you can use A9 Pro to connect to your mobile network from anywhere in the world. Enjoy faster data transmission, lower power consumption and more reliable connection. We offer 100% 1 year post-sales warranty and service. If you have any initial defects or any other problems, please feel free to email us.", "
+Brand	‎UMIDIGI
+Manufacturer	‎UMIDIGI
+Model Name	‎A9 Pro
+Part Number	‎A9PRO
+Memory storage capacity	‎64 GB
+Flash Memory Installed Size	‎64 GB
+Digital Storage Capacity	‎64 GB
+OS	‎Android 10.0
+Processor Speed	‎2 GHz
+Standing screen display size	‎6.3 Inches
+Optical Sensor Resolution	‎5.0, 32.0 MP
+Batteries included	‎No
+batteries required	‎No
+Cellular Technology	‎4G
+Form Factor	‎Smartphone
+Manufacturer	‎UMIDIGI
+Manufacturer reference	‎A9PRO
+Parcel Dimensions	‎18.3 x 9.9 x 4.9 cm; 205 Grams
+ASIN	‎B08RDNNRTD", "https://www.amazon.ca/UMIDIGI-Unlocked-4150mAh-Capacity-Smartphone/dp/B08RDNNRTD/ref=sr_1_7?crid=Q70QDUCZ68WM&dchild=1&keywords=cell+phone&qid=1624463067&sprefix=cell%2Caps%2C176&sr=8-7", "https://www.newegg.ca/umidigi-a9-pro-6-3-black/p/23B-009Z-00051", "");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("101", "Samsung Galaxy A10S A107M", "https://images-na.ssl-images-amazon.com/images/I/61OhSCY69kL._AC_SL1000_.jpg", "The Galaxy A10s comes as an upgrade of the Samsung Galaxy A10. The new phone sports an Infinity-V Display and comes with dual rear camera setup. It has also provided features such as depth detection and the ability to add artistic effect to images directly through the Galaxy A10s. Immerse yourself and get a vivid viewing experience with the Galaxy A10''s next-gen Infinity-V Display. HD+ resolution never looked so good. You''ll be able to capture stunning photographs that stand out with its 13MP+2MP Dual Rear + 8MP Front Camera. Even in low light, you''ll be ready to shoot and produce incredible results. An immense advantage for multi-taskers, the Galaxy A10s can run multiple apps without missing a beat thanks to its Octa-core 2.0 GHz Cortex-A53 (chipset: Mediatek MT6762 Helio P22 (12 nm)). Other notable features include an accelerometer, proximity sensor, and virtual light sensing. Does NOT have NFC. With high usage of its stunning camera and multi-tasking ability, it''s a good thing it has a durable 4000 mAh battery that will keep you going throughout your day.", "Brand	‎Samsung
+Manufacturer	‎Samsung
+Model	‎A107M
+Part Number	‎SM-A107MBLACK
+Memory storage capacity	‎32 GB
+Flash Memory Installed Size	‎32 GB
+Digital Storage Capacity	‎32 GB
+OS	‎Android 9.0
+Processor Speed	‎2 GHz
+Display Technology	‎LCD
+Standing screen display size	‎6.2 Inches
+Display Type	‎LCD
+Optical Sensor Resolution	‎13 MP
+Batteries included	‎Yes
+batteries required	‎No
+Battery cell composition	‎Lithium
+Battery Power Rating	‎4000 Milliamp Hours
+Cellular Technology	‎4G, 3G, 2G
+Device interface - primary	‎Touchscreen
+Manufacturer	‎Samsung
+Item model number	‎A107M
+ASIN	‎B07XQJ33PL", "https://www.amazon.ca/Samsung-6-2inch-Infinity-V-Display-Camera/dp/B07XQJ33PL/ref=sr_1_11?crid=Q70QDUCZ68WM&dchild=1&keywords=cell+phone&qid=1624463336&sprefix=cell%2Caps%2C176&sr=8-11", "https://www.newegg.ca/p/23B-0049-003U3?Description=Samsung%20Galaxy%20A10S%20A107M&cm_re=Samsung_Galaxy%20A10S%20A107M-_-9SIAZBTENZ2560-_-Product", "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-a10s-a107m-ds-32gb-2gb-32gb-64gb-sd-bundle-factory-unlocked-black/15445015");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("101", "Huawei P40 Lite", "https://images-na.ssl-images-amazon.com/images/I/51EIonlrnbL._AC_SL1008_.jpg", "6.4 inches, LTPS IPS LCD, 101.4 cm2 (~83.5% screen-to-body ratio), 1080 x 2310 pixels (~398 ppi density)
+Network Compatibility: DUAL-SIM (Nano-SIM), SIM CARD 1 AND SIM CARD 2 [ 2G : GSM 850 / 900 / 1800 / 1900 and/or 3G : WCDMA 800(B6) / 800(B19) / 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G : LTE 700(B12) / 700(B17) / 700(B28) / 800(B18) / 800(B19) / 800(B20) / 850(B5) / 850(B26) / 900(B8) / 1500(B32) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) / Band 6 / Band 9 and/or : TD-LTE 1900(B39) / 2100(B34) / 2300(B40) / 2500(B41) / 2600(B38)
+128GB 6GB RAM, NM (Nano Memory), up to 256GB (uses shared SIM slot)
+Android 10, EMUI 10, no Google Play Services, Kirin 810 (7 nm), Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55) | GPU: Mali-G52 MP6
+Quad: 48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF, 8 MP, f/2.4, (ultrawide), 2 MP, f/2.4, (macro), 2 MP, f/2.4, (depth) | Front Camera: 16 MP, f/2.0, (wide), 1/3.06"", 1.0µm, Video rec. 1080p@30fps", "
+OS	‎Android 10.0
+RAM	‎6 GB
+Product Dimensions	‎15.92 x 7.63 x 0.87 cm; 300 Grams
+Batteries	‎1 Lithium Polymer batteries required. (included)
+Item model number	‎6901443375769
+Wireless communication technologies	‎Cellular
+Display technology	‎LCD
+Other display features	‎CE
+Device interface - primary	‎Touchscreen
+Other camera features	‎Front
+Form Factor	‎Smartphone
+Colour	‎Black
+Item Weight	‎300 g", "https://www.amazon.ca/Huawei-Dual-SIM-Factory-Unlocked-Smartphone/dp/B084YWQF5R/ref=sr_1_13?crid=24WG2VTQWGWVJ&dchild=1&keywords=cell%2Bphone&qid=1624463971&sprefix=cell%2Caps%2C184&sr=8-13&th=1", "https://www.newegg.ca/huawei-6-4-gsm-hspa-lte-black/p/23B-001M-00775?Description=Huawei%20P40%20Lite&cm_re=Huawei_P40%20Lite-_-23B-001M-00775-_-Product", "https://www.bestbuy.ca/en-ca/product/huawei-p40-lite-6-4-128-6gb-ram-factory-unlocked-smartphone-brand-new-midnight-black/15374525");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("101", "LG Phoenix 5", "https://images-na.ssl-images-amazon.com/images/I/61u37aGJjqL._AC_SL1500_.jpg", "It''s a smartphone that accomplishes more than the essentials. One with power. The LG Phoenix 5 has you covered. Capture all your favorite moments with 13 MP + wide 5 MP dual cameras, along with 5.7-inch HD+ display. The long-lasting 3000 mAh (non-removable) battery provides reliable power on the go, along with storage up to 16GB of onboard memory and optional microSD support up to 32GB to keep all your favorite memories.", "Brand	‎LG
+Manufacturer	‎LG
+Model	‎LM-K300AM
+Model Name	‎Phoenix 5
+Model Year	‎2020
+Part Number	‎LM-K300AM
+Memory storage capacity	‎16 GB
+Flash Memory Installed Size	‎16 GB
+Digital Storage Capacity	‎16 GB
+OS	‎Android 10.0
+Processor Brand	‎MediaTek
+Number Of Items	‎1
+Standing screen display size	‎5.7 Inches
+Display Type	‎LCD
+Optical Sensor Resolution	‎13 MP
+Batteries included	‎Yes
+batteries required	‎No
+Battery cell composition	‎Lithium
+Battery Power Rating	‎3000 Milliamp Hours
+Cellular Technology	‎LTE
+Form Factor	‎Bar
+Contains Liquid Contents	‎No
+Manufacturer	‎LG
+Item model number	‎LM-K300AM
+Product Dimensions	‎14.8 x 7.1 x 0.86 cm; 145 Grams
+ASIN	‎B08PDZKK7X", "https://www.amazon.ca/LG-LM-K300AM-Unlocked-Smartphone-Packaging/dp/B08PDZKK7X/ref=sr_1_16?crid=24WG2VTQWGWVJ&dchild=1&keywords=cell+phone&qid=1624463971&sprefix=cell%2Caps%2C184&sr=8-16", "https://www.newegg.ca/lg-phoenix-5-5-7-silver/p/23B-000F-00290?Description=LG%20Phoenix%205&cm_re=LG_Phoenix%205-_-9SIARXREJ08410-_-Product", "https://www.bestbuy.ca/en-ca/product/lg-phoenix-5-16gb-5-7-factory-unlocked-smartphone-brand-new-silver/15447456");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("101", "Samsung Galaxy A51", "https://images-na.ssl-images-amazon.com/images/I/61HFJwSDQ4L._AC_SL1000_.jpg", "Samsung''s Galaxy A51 SM-A515F specifications and features: this is a 6.5"" (164mm) device with a FHD 2400 x 1080 screen resolution. The phone is powered by the Exynos 9611 soc with a Quad-Core Cortex-A73 2.3GHz & Quad-Core Cortex-A53 1.7GHz configuration. Memory is 4GB with the device offering 128GB internal storage and up to 512GB of external memory. The Galaxy A51 features Accelerometer, Optical Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor and Hall Sensor. Notable features include Samsung Pay (MST), Bixby, Samsung Pay (NFC). The device measures 158.5 x 73.6 x 7.9mm and weighs 172g.", "Brand	‎Samsung
+Manufacturer	‎Samsung
+Model	‎SM-A515F/DS
+Part Number	‎SM-A515F/DS
+RAM	‎4 GB
+Memory storage capacity	‎128 GB
+Flash Memory Installed Size	‎128
+Digital Storage Capacity	‎128 GB
+OS	‎Android 10.0
+Processor Speed	‎2.3, 1.7 GHz
+Scanner Resolution	‎1080 x 2400
+Standing screen display size	‎6.5 Inches
+Optical Sensor Resolution	‎5.0, 12.0 MP
+Batteries included	‎Yes
+batteries required	‎Yes
+Battery cell composition	‎Lithium
+Battery Power Rating	‎4000 Milliamp Hours
+Cellular Technology	‎2G
+Connector Type	‎NFC
+Device interface - primary	‎Touchscreen
+Manufacturer	‎Samsung
+Item model number	‎SM-A515F/DS
+Product Dimensions	‎17.78 x 7.62 x 6.35 cm; 172 Grams
+ASIN	‎B082YF7WY5", "https://www.amazon.ca/Samsung-Galaxy-SM-A515F-Factory-Unlocked/dp/B082YF7WY5/ref=sr_1_30?crid=24WG2VTQWGWVJ&dchild=1&keywords=cell%2Bphone&qid=1624463971&sprefix=cell%2Caps%2C184&sr=8-30&th=1", "https://www.newegg.ca/samsung-galaxy-a51-6-5-4g-lte-prism-crush-black/p/N82E16875169911?Description=Samsung%20Galaxy%20A51&cm_re=Samsung_Galaxy%20A51-_-75-169-911-_-Product", "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-a51-64gb-smartphone-crush-black-unlocked-new/15338048");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Sony MDRZX110 Over-Ear Headphones", "https://images-na.ssl-images-amazon.com/images/I/51eJUpMRnzL._AC_SL1000_.jpg", "Maximizing your personal audio experience has never been easier than with SONY ZX-Series Monitor headphones. Built with comfort and performance in mind, there''s no need to compromise.", "Batteries ‏ : ‎ 1 Lithium ion batteries required.
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 14.91 x 4.6 x 19.99 cm; 135 Grams
+Date First Available ‏ : ‎ March 25 2014
+Manufacturer ‏ : ‎ Sony Electronics Inc.
+Place of Business ‏ : ‎ SAN DIEGO, CA, 92127 US
+ASIN ‏ : ‎ B00NJ2M33I
+Item model number ‏ : ‎ MDRZX110/BLK", "https://www.amazon.ca/Sony-MDRZX110-Over-Ear-Headphones-Black/dp/B00NJ2M33I/ref=sr_1_5?dchild=1&keywords=headphones&qid=1624464389&sr=8-5", "https://www.newegg.ca/p/0X6-085D-00348?Description=Sony%20MDRZX110&cm_re=Sony_MDRZX110-_-0X6-085D-00348-_-Product", "https://www.bestbuy.ca/en-ca/product/sony-mdrzx110-over-ear-headphones-black-axgear/15371864");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Bose QuietComfort 35 Wireless Headphones II", "https://images-na.ssl-images-amazon.com/images/I/81%2BjNVOUsJL._AC_SL1500_.jpg", "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II, the most powerful Bose noise cancelling headphones yet. Put them on and get closer to what you’re most passionate about. They’re Alexa-enabled, so you can enjoy entertainment, get information and manage your day—all without looking at your phone. Adjust your level of noise cancellation between three settings using the Action button or the Bose Connect app. Volume-optimised EQ gives you balanced audio performance at any volume, and a noise-rejecting dual-microphone system provides clearer calls, even in noisy environments. And with easy Bluetooth pairing, 20 hours of battery life and a durable, comfortable fit, you can keep the music or the quiet going all day long. Available in Black, Silver or new, limited-edition Triple Midnight. Included: QuietComfort 35 II, carrying case, charging cable, audio cable for enjoying music without battery power. Audio cable:1.2 m", "Brand	‎BOSE
+Manufacturer	‎BOSE
+Place of Business	‎STOW, MA, 01775 US
+Model	‎789564-0010
+Model Name	‎Quietcomfort 35 II
+Model Year	‎2017
+Part Number	‎789564-0010
+Hardware interface	‎3.5mm Audio
+Special features	‎Wireless, Microphone, Noise-Canceling
+Number Of Items	‎1
+Standing screen display size	‎3 Inches
+Color Screen	‎No
+Microphone Form Factor	‎Dual Microphone
+Headphones Form Factor	‎Over Ear
+Voltage	‎220 Volts
+Batteries included	‎Yes
+batteries required	‎Yes
+Battery cell composition	‎Lithium Ion
+Cable Feature	‎Without Cable
+Connector Type	‎Bluetooth, Wired, NFC
+Contains Liquid Contents	‎No
+Includes Rechargable Battery	‎Yes
+Remote control included?	‎No
+Supports Bluetooth Technology	‎Yes
+Manufacturer	‎BOSE
+Item model number	‎789564-0010
+Product Dimensions	‎8.13 x 17.02 x 18.03 cm; 235.87 Grams
+ASIN	‎B0756CYWWD", "https://www.amazon.ca/QuietComfort-Wireless-Headphones-Cancelling-Control/dp/B0756CYWWD/ref=sxin_11?asc_contentid=amzn1.osa.6cc9943b-610a-4b4d-8175-0b7a22e19b11.A2EUQ1WTGCTBG2.en_CA&asc_contenttype=article&ascsubtag=amzn1.osa.6cc9943b-610a-4b4d-8175-0b7a22e19b11.A2EUQ1WTGCTBG2.en_CA&creativeASIN=B0756CYWWD&cv_ct_cx=headphones&cv_ct_id=amzn1.osa.6cc9943b-610a-4b4d-8175-0b7a22e19b11.A2EUQ1WTGCTBG2.en_CA&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-earns-comm&dchild=1&keywords=headphones&linkCode=oas&pd_rd_i=B0756CYWWD&pd_rd_r=eb364dd6-9075-41f0-939a-64298aab5992&pd_rd_w=hwCac&pd_rd_wg=9Os7o&pf_rd_p=fd4969f1-ce1a-42e7-85d6-f4cb7192108a&pf_rd_r=RRPWDR8K5QMK80DNGBSF&qid=1624464576&sr=1-1-64f3a41a-73ca-403a-923c-8152c45485fe&tag=bestcontca-20", "https://www.newegg.ca/black-bose-789564-0010-wireless/p/N82E16826627080?Description=Bose%20QuietComfort%2035&cm_re=Bose_QuietComfort%2035-_-26-627-080-_-Product", "https://www.newegg.ca/black-bose-789564-0010-wireless/p/N82E16826627080?Description=Bose%20QuietComfort%2035&cm_re=Bose_QuietComfort%2035-_-26-627-080-_-Product");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Sanyun SW208 3"" Active Bluetooth Bookshelf Speakers", "https://images-na.ssl-images-amazon.com/images/I/81PdWvZcOBL._AC_SL1500_.jpg", "【SMALL HIFI BOOKSHELF SPEAKERS】SW-208 is a small bookshelf speaker with HiFi sound quality. It adopts standard bookshelf speaker system design, i.e. direct/reflective speaker system. Can be placed at will, can easily create a rich stereo sense and strong sound pressure.
+【30Wx2 CARBON FIBER SEPAKER UNIT】The speaker unit is designed with carbon fiber material and multi-layer voice coil technology, which is proprietary by Sanyun Company. It has excellent sound performance, warm and thick medium frequency, deep and powerful low frequency, clear and bright high frequency sound characteristics. And the speaker unit has a super durability and stability, can work steadily in any environment.
+【APTX CODEC, 24 bit DAC AND BLUETOOTH 5.0】When connecting with USB cable, aptX Codec and the built-in 24 bit DAC can obtain the digital audio signal directly, which can provide 3D surround sound and higher fidelity sound quality, especially suitable for games. Bluetooth 5.0 connection, stable transmission.
+【TREBLE AND BASS ADJUSTMENT】To achieve true HiFi sound quality, set the total volume, treble and bass adjustment knobs on the side of main speaker. Please adjust the most suitable sound according to your preferences, or adjust the best sound effect according to different sound types.
+【QUIET STANDBY and ENERGY SAVING】Built in noise elimination system. Built-in chip, intelligent filter input audio, automatic filter to remove noise, keep the speakers absolutely quiet while standby. The design standard conforms to EU ER2 standard, saving energy. A good speaker, not only can provide good sound performance, when not in use, can quietly let you forget its existence.", "Brand	‎Sanyun
+Manufacturer	‎Sanyun
+Model	‎Sanyun-SW208
+Part Number	‎Sanyun-SW208
+Speakers maximum output power	‎50 Watts
+Output Wattage	‎50 Watts
+Wattage	‎60 watts
+Power source type	‎Corded Electric
+Batteries included	‎No
+batteries required	‎No
+Assembled Diameter	‎3 inches
+Connector Type	‎Bluetooth, Usb
+Includes Rechargable Battery	‎No
+Manufacturer	‎Sanyun
+Item model number	‎Sanyun-SW208
+Product Dimensions	‎19 x 11.89 x 13.59 cm; 2.37 Kilograms
+ASIN	‎B08777GG4P", "https://www.amazon.ca/Sanyun-Active-Bluetooth-Bookshelf-Speakers/dp/B08777GG4P/ref=sr_1_9?dchild=1&keywords=speakers&qid=1624464692&sr=8-9", "", "");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "JBL PartyBox 310 Portable Bluetooth Party Speaker", "https://images-na.ssl-images-amazon.com/images/I/71P-IPIUsOL._AC_SL1500_.jpg", "Take your karaoke parties to the next level with the JBL PartyBox 310. This mobile entertainment machine is designed to perform anywhere and everywhere your music takes you. Built-in mic and guitar inputs, perfect for live performances, while a dynamic light show, cool vocal effects and 240 watts of JBL Pro Sound make you look and sound like a rock star. With Bluetooth connectivity and up to 18 hours of battery life, the entertainment options are endless. Bring life to the party with the JBL PartyBox 310.", "Brand	‎JBL
+Manufacturer	‎JBL
+Place of Business	‎BAIE D''URFE, QC, H9X 4B7 CA
+Model	‎JBLPARTYBOX310AM
+Model Name	‎Partybox 310
+Part Number	‎JBLPARTYBOX310AM
+Mounting Hardware	‎1 x Partybox 310, 1 x AC Power cord, 1 x Quick Start Guide, 1 x Warranty card, 1 x Safety sheet
+Number Of Items	‎1
+Speakers Nominal Output Power	‎240 Watts
+Speakers maximum output power	‎240 Watts
+Speaker amplification type	‎Active
+Speaker Connectivity	‎Bluetooth
+Output Wattage	‎240 Watts
+Voltage	‎12 Volts
+Wattage	‎240 watts
+Power source type	‎Battery Powered
+Battery Average Life	‎18 Hours
+Batteries included	‎Yes
+batteries required	‎Yes
+Battery cell composition	‎Lithium Ion
+Signal To Noise Ratio	‎80 dB
+Speaker Output Channel Quantity	‎1
+Total Usb Ports	‎1
+Connector Type	‎Bluetooth
+Device interface - primary	‎Buttons
+Contains Liquid Contents	‎No
+Includes Rechargable Battery	‎Yes
+Remote control included?	‎No
+Manufacturer	‎JBL
+Item model number	‎JBLPARTYBOX310AM
+Product Dimensions	‎36.83 x 32.51 x 68.58 cm; 19.05 Kilograms
+ASIN	‎B08HBG3M7M", "https://www.amazon.ca/JBL-PartyBox-Portable-Bluetooth-Dazzling/dp/B08HBG3M7M/ref=sr_1_15?dchild=1&keywords=speakers&qid=1624464692&sr=8-15", "", "https://www.bestbuy.ca/en-ca/product/jbl-partybox-310-splashproof-bluetooth-wireless-speaker-black/15002133");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Anker SoundCore Mini", "https://images-na.ssl-images-amazon.com/images/I/61WZ-ZuU3oL._AC_SL1200_.jpg", "Compact And Powerful: Super-portable Bluetooth speaker delivers powerful sound and robust bass through an advanced 5W driver and passive subwoofer.Unstoppable Music: Micro SD support and AUX capability provide endless audio options.Extensive Connectivity: Utilizes Bluetooth 4.0 technology for seamless device linking and a 66ft connection range.Extended Playtime: Anker battery technology supplies 15 hours of continuous playtime on a single charge more than double that of comparable speaker", "Brand	‎Anker
+Manufacturer	‎Anker
+Place of Business	‎MANHATTAN BEACH, CA, 90266 US
+Model	‎AK-A3101111
+Model Name	‎SoundCore mini
+Part Number	‎AK-A3101111
+Mounting Hardware	‎Speaker
+Number Of Items	‎1
+Web Browser Included	‎No
+Color Screen	‎No
+Speakers Nominal Output Power	‎5 Watts
+Speakers maximum output power	‎5 Watts
+Speaker amplification type	‎Passive
+Speaker Connectivity	‎Bluetooth; USB; Auxilliary (3.5mm)
+Voltage	‎5 Volts
+Wattage	‎5 watts
+Power source type	‎Battery Powered
+Battery Average Life	‎15 Hours
+Batteries included	‎Yes
+batteries required	‎Yes
+Battery cell composition	‎Lithium Ion
+Connector Type	‎Bluetooth, Auxiliary, USB
+Mounting type	‎Speaker
+Contains Liquid Contents	‎No
+Has Audio Recording	‎No
+Includes Rechargable Battery	‎Yes
+Includes Ac Adapter	‎No
+Remote control included?	‎No
+Manufacturer	‎Anker
+Item model number	‎AK-A3101111
+Product Dimensions	‎6.86 x 6.86 x 6.86 cm; 200 Grams
+ASIN	‎B01HTH3C8S", "https://www.amazon.ca/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S/ref=sr_1_32?dchild=1&keywords=speakers&qid=1624464692&sr=8-32", "https://www.newegg.ca/p/0X6-085D-005G5?Description=Anker%20SoundCore%20Mini\&cm_re=Anker_SoundCore%20Mini\-_-0X6-085D-005G5-_-Product", "https://www.bestbuy.ca/en-ca/product/anker-soundcore-mini-super-portable-bluetooth-speaker-with-15-hour-playtime-66-foot-bluetooth-range-enhanced-bass-black-axgear/15429197");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Sony WH-1000XM4 Over-Ear Noise Cancelling Bluetooth Headphones", "https://c1.neweggimages.com/ProductImageCompressAll1280/0G6-001C-00614-S19.jpg", "Adaptive noise cancellation with Dual Noise Sensor and powerful Edge-AI technology combine to bring you an intelligent, premium audio experience. The built-in Google Assistant and Amazon Alexa let you control your music hands-free with voice controls.", "Sound isolating: yes Echo Reduction: Yes                           Wireless: Yes                       Bluetooth: Yes                                  Built-in Mic: Yes                        Android Control: Yes
+Voice Assistant Built-In: Amazon Alexa and Google Assistant
+Works with Google Assistant:
+Yes
+Works with Amazon Alexa: Yes
+Folding: Yes
+Step Tracking: No
+Sleep Aid: No
+Sleep Tracking: No
+Driver Unit Size: 40 mm
+Frequency Response
+4 Hz- 40000 Hz
+Colour: Black
+Colour Family: Black
+Weight: 250 g", "https://www.amazon.ca/Sony-WH-1000XM4-Canceling-Headphones-WH1000XM4/dp/B0863TXGM3", "https://www.newegg.ca/sony-wh1000xm4b-bluetooth-headset-black/p/0G6-001C-00614", "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm4-over-ear-noise-cancelling-bluetooth-headphones-black/14777258");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Bose SoundSport In-Ear Wireless Headphones", "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10424/10424243.jpg", "The word ""wireless"" will soon be music to your ears with the Bose SoundSport wireless headphones. With no wires in the way, you''re free to focus on pushing that extra rep or running that extra mile. Featuring 6 hours of battery life and StayHear+ tips, these headphones provide all the support you need to power through your workout.", "Sports & Fitness Ear Clip: Yes
+Sound Isolating: No
+Noise Cancelling: No
+Echo Reduction: No
+Wireless: Yes
+Bluetooth:
+Bluetooth 4.2; A2DP; HFP; AVRCP; BLE
+RF Wireless: No
+NFC Ready: Yes
+Wireless Talk Time: 6 h
+Charge Time: 2 h
+Effective Wireless Range: 10 m
+Designed for Sports: Yes
+Designed for Kids: No
+DJ Style: No
+Professional Grade: No
+Water/Sweat Resistant: Yes
+Inline Volume Control: Yes
+iPod/iPhone Control: Yes
+Built-in Mic: Yes
+Android Control: Yes
+Fitness Tracking: Yes
+Heart Rate Monitor: No
+Folding: No
+Step Tracking: No
+Cord Length: 0.55 m
+Ear Cushion Material: Silicone
+Driver Unit Size: Not Applicable
+Power Source:Rechargeable Battery
+Frequency Response: Not Applicable
+Impedance: Not Applicable
+Sensitivity: Not Applicable
+Colour: Black
+Colour Family: Black
+Weight: 23 g", "https://www.amazon.ca/Bose-SoundSport-Wireless-Headphones-Black/dp/B01L7PSJFO/ref=sr_1_2?dchild=1&keywords=Bose+SoundSport+In-Ear+Wireless+Headphones&qid=1624481478&s=electronics&sr=1-2", "", "https://www.bestbuy.ca/en-ca/product/bose-bose-soundsport-in-ear-wireless-headphones-black-soundsport-wrls-blk/10424243");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Skullcandy Dime In-Ear Sound Isolating Truly Wireless Headphones", "https://images-na.ssl-images-amazon.com/images/I/71k%2BG-1GxDL._AC_SL1500_.jpg", "Small but mighty, these Skullcandy Dime in-ear headphones are perfect for taking along on the go. They utilise Truly Wireless technology so you''re never tethered to a device while powerful drivers deliver rich, clear sound. Each ear bud is equipped with a microphone and can be used independently for the ultimate in convenience.", "Sports & Fitness Ear Clip: No
+Sound Isolating: Yes
+Noise Cancelling: No
+Echo Reduction: No
+Truly Wireless: Yes
+Wireless: Yes
+Bluetooth: Yes
+Bluetooth: Yes
+RF Wireless: No
+NFC Ready: No
+Charge Time: 2.5 h
+Effective Wireless Range: 20 m
+Designed For Gaming: No
+Designed for Sports: No
+Designed for Kids: No
+DJ Style: No
+Professional Grade: Yes
+Water/Sweat Resistant: Yes
+Inline Volume Control: Yes
+Volume-Limiting: No
+iPod/iPhone Control: Yes
+Built-in Mic: Yes
+Android Control: Yes
+Works with Google Assistant: No
+Works with Amazon Alexa: Yes
+Fitness Tracking: No
+Heart Rate Monitor: No
+Folding: No
+Step Tracking: No
+Sleep Aid: No
+Sleep Tracking: No
+Mental Wellness: No
+Plug Material: Nickel plating on USB jack; Gold plate on Aux cable plug pin
+Plug Shape: Straight
+Driver Unit Size: 6 mm
+Power Source: Lithium Polymer
+Frequency Response: 20 Hz - 20 KHz
+Impedance: 16Ω±15%
+Sensitivity: 83dB±3dB
+Colour: Black
+Colour Family: Black
+Weight: 400 g", "https://www.amazon.ca/Skullcandy-Wireless-Earbuds-Black-S2SSW-M003/dp/B07R1Q1Z75/ref=sr_1_3?dchild=1&keywords=Skullcandy+Dime+In-Ear+Sound+Isolating+Truly+Wireless+Headphones&qid=1624481844&s=electronics&sr=1-3", "https://www.newegg.ca/p/0X6-08Y7-00N96?Description=Skullcandy%20Dime%20In-Ear&cm_re=Skullcandy_Dime%20In-Ear-_-9SIAV93F0A2802-_-Product", "https://www.bestbuy.ca/en-ca/product/skullcandy-dime-in-ear-sound-isolating-truly-wireless-headphones-black/15348436");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Jabra Elite Active 65t In-Ear Truly Wireless Headphones", "https://images-na.ssl-images-amazon.com/images/I/81K-QPk%2Bf1L._AC_SL1500_.jpg", "With the Jabra Elite Active 65t In-Ear Passive Noise Cancelling Truly Wireless Bluetooth Headphones, you don''t have to be tied down to your mobile device. These earbuds are specially engineered to provide optimum clarity for phone calls and boast an adjustable equalizer so you can customize your music any way you want it.", "Sports & Fitness Ear Clip: No
+Sound Isolating: Yes
+Noise Cancelling Type: Passive Noise Cancelling
+Noise Cancelling: No
+Echo Reduction: No
+Truly Wireless: Yes
+Wireless: Yes
+Bluetooth: Yes
+RF Wireless: No
+NFC Ready: No
+Wireless Talk Time: 15 h
+Wireless Standby Time: 1 h
+Charge Time: 2 h
+Effective Wireless Range: 10 m
+Designed For Gaming: No
+Designed for Sports: Yes
+Designed for Kids: No
+DJ Style: No
+Professional Grade: Yes
+Water/Sweat Resistant: Yes
+Inline Volume Control: Yes
+iPod/iPhone Control: Yes
+Built-in Mic: Yes
+Android Control: Yes
+Works with Google Assistant: Yes
+Fitness Tracking: Yes
+Heart Rate Monitor: No
+Folding: No
+Step Tracking: Yes
+Ear Cushion Material: Silicone
+Driver Unit Size: 5.1 mm
+Power Source: Battery
+Frequency Response: 20Hz - 20kHz
+Impedance: 16 Ohm
+Sensitivity: 103 dBSPL
+Colour: Titanium; Black
+Colour Family: Black
+Weight: 79.3 g", "https://www.amazon.ca/Jabra-100-99010000-20-Wireless-Bluetooth-Smartphones/dp/B07DS8TSKT/ref=sr_1_1?dchild=1&keywords=Jabra+Elite+Active+65t+In-Ear+Truly+Wireless+Headphones&qid=1624482223&s=electronics&sr=1-1", "", "https://www.bestbuy.ca/en-ca/product/jabra-elite-active-65t-in-ear-truly-wireless-headphones-black-only-at-best-buy/12603667");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("102", "Sony WH-RF400 Over-Ear Sound Isolating RF Headphones", "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/130/13029/13029605.jpg", "Whether you''re listening to music or watching your favourite movies, these Sony home theatre headphones will immerse you in the entertainment. They feature an over-ear design for comfort and RF connectivity for wireless convenience. With an enhanced range, a noise reduction system, and a transmitter dock that connects to your TV, you can listen almost anywhere.", "Sports & Fitness Ear Clip: No
+Sound Isolating: Yes
+Noise Cancelling: No
+Echo Reduction: Yes
+Truly Wireless: No
+Wireless: Yes
+Bluetooth: No
+RF Wireless: Yes
+NFC Ready: No
+Wireless Talk Time: 20 Hours
+Charge Time: 7 Hours
+Effective Wireless Range: 45.72 m
+Power Source: 2 x AAA Batteries
+Frequency Response: 10 Hz - 22 KHz
+Impedance: 32 Ohm
+Sensitivity: 100 dBm
+Colour: Black
+Weight: 1000 g", "", "https://www.newegg.ca/p/1VH-000R-000P9?Description=Sony%20WH-RF400&cm_re=Sony_WH-RF400-_-9SIAKUCD3H5704-_-Product", "https://www.bestbuy.ca/en-ca/product/sony-wh-rf400-over-ear-sound-isolating-rf-headphones-black/13029605");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("103", "Canon PowerShot SX540", "https://images-na.ssl-images-amazon.com/images/I/81l6xdQOHyL._AC_SL1500_.jpg", "Make the most of those special events with the Canon 20.3 Megapixel Powershot SX540 HS Digital Camera. It features 20.3 megapixels, 1080p Full HD video, and 50x optical zoom for the highest quality images and videos. Plus, the story highlights feature helps you recap your favorite days and events.", "Batteries ‏ : ‎ 1 Lithium ion batteries required. (included)
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 4.7 x 11.94 x 8.13 cm; 442.25 Grams
+Date First Available ‏ : ‎ Jan. 5 2016
+Manufacturer ‏ : ‎ Canon Canada (Direct)
+Place of Business ‏ : ‎ BRAMPTON, ON, L6Y 5Z7 CA
+ASIN ‏ : ‎ B019UDIAI6
+Item model number ‏ : ‎ 1067C001", "https://www.amazon.ca/Canon-PowerShot-SX540-Optical-Built/dp/B019UDIAI6/ref=sr_1_16?dchild=1&keywords=cameras&qid=1624465037&sr=8-16", "https://www.newegg.ca/canon-powershot-sx540-hs-slr-style/p/N82E16830120835?Description=Canon%20PowerShot%20SX540&cm_re=Canon_PowerShot%20SX540-_-30-120-835-_-Product", "https://www.bestbuy.ca/en-ca/product/canon-canon-powershot-sx540-hs-wifi-20-3mp-50x-optical-zoom-digital-camera-black-1067c001/10406701");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("103", "Canon PowerShot SX420", "https://images-na.ssl-images-amazon.com/images/I/61xQRROBrRL._AC_SL1200_.jpg", "The Canon Powershot SX420 IS Digital Camera packs a super zoom in a small package. With 20.0 megapixels a 3 in. LCD screen and 720p HD video this camera sacrificing nothing in quality. Plus the smart auto selects and scene modes provide freedom and creativity.SUPPORTED OPERATING SYSTEM:Windows 10 / 8.1 / 8 / 7 SP1 Mac OS X 10.9 / 10.10 / 10.11 For Wi-Fi connection to a PC: Windows 10 / 8.1 / 8 / 7 SP1 Mac OS X 10.9 / 10.10 For Image Transfer Utility: Windows 10 / 8.1 / 8 / 7 SP1 Mac OS X 10.9 / 10.10 / 10.11 PC & Macintosh
+Shooting Capacity: Approx. 195 shots Approx. 260 shots in ECO Mode. Video Recording Time: Approx. 50 min.", "Batteries ‏ : ‎ 1 C batteries required. (included)
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 8.64 x 10.41 x 6.86 cm; 326.02 Grams
+Date First Available ‏ : ‎ Jan. 8 2016
+Manufacturer ‏ : ‎ Canon Canada (Direct)
+Place of Business ‏ : ‎ BRAMPTON, ON, L6Y 5Z7 CA
+ASIN ‏ : ‎ B019UDI5PO
+Item model number ‏ : ‎ 1068C001", "https://www.amazon.ca/Canon-PowerShot-SX420-Optical-Built/dp/B019UDI5PO/ref=bmx_m727cf0o_1/132-7245197-5750229?pd_rd_w=vxuYc&pf_rd_p=c8dace55-4212-4299-be96-0cdf9dabee5e&pf_rd_r=95TJAFE4D2960HCRXGAM&pd_rd_r=cbea9756-609c-4b93-bcf4-b842a6de63a3&pd_rd_wg=j9VpW&pd_rd_i=B019UDI5PO&psc=1", "https://www.newegg.ca/p/0UP-000F-01634?Description=Canon%20PowerShot%20SX420&cm_re=Canon_PowerShot%20SX420-_-9SIAKXCEEP6488-_-Product", "https://www.bestbuy.ca/en-ca/product/canon-canon-powershot-sx420-is-wifi-20-0mp-42x-optical-zoom-digital-camera-black-1068c001/10406705");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("103", "Canon PowerShot SX730 HS", "https://images-na.ssl-images-amazon.com/images/I/71t9FCz-4yL._AC_SL1500_.jpg", "A versatile and compact point-and-shoot, the black PowerShot SX730 HS from Canon combines a wide-reaching zoom with apt multimedia recording capabilities. Employing a 20.3MP 1/ 2.3"" High-Sensitivity CMOS sensor and DIGIC 6 image processor, smooth image quality is afforded along with enhanced low-light sensitivity and minimal noise when working with sensitivities up to ISO 3200. The sensor and processor also enable shooting continuously at a rate of 5.9 fps as well as recording Full HD 1080p/60 video. Benefitting the imaging capabilities is a 40x zoom lens, which covers a 24-960mm equivalent focal length range, to suit photographing in a wide variety of situations.
+
+Intelligent IS complements this reach by minimizing the appearance of camera shake for sharper handheld shooting. Sleek and pocketable, the SX730 HS is also characterized by its 3.0"" 922k-dot tilting LCD monitor, which is perfect for shooting from low angles or taking well-composed selfies, and built-in Wi-Fi with NFC and Bluetooth connectivity allow you to wirelessly share imagery and remotely control the camera from a paired smartphone or tablet.", "Batteries ‏ : ‎ 1 A batteries required. (included)
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 4.06 x 10.92 x 6.35 cm; 300.5 Grams
+Date First Available ‏ : ‎ April 6 2017
+Manufacturer ‏ : ‎ Canon
+Place of Business ‏ : ‎ BRAMPTON, ON, L6Y 5Z7 CA
+ASIN ‏ : ‎ B06Y125DWZ
+Item model number ‏ : ‎ 1791C001", "https://www.amazon.ca/Canon-PowerShot-SX730-HS-Black/dp/B06Y125DWZ/ref=pd_di_sccai_9/132-7245197-5750229?pd_rd_w=fCij7&pf_rd_p=e92f388e-b766-4f7f-aac1-ee1d0056e8fb&pf_rd_r=1J5NEF5323JKMEZE5438&pd_rd_r=245e5353-6c76-4d1a-a6e0-afa33d268003&pd_rd_wg=X4C5T&pd_rd_i=B06Y125DWZ&psc=1", "https://www.newegg.ca/p/0ZS-000J-005H1?Description=Canon%20PowerShot%20SX730%20HS&cm_re=Canon_PowerShot%20SX730%20HS-_-9SIAG6B71K0652-_-Product", "https://www.bestbuy.ca/en-ca/product/canon-powershot-sx730-hs-wi-fi-20-3mp-40x-optical-zoom-digital-camera-32gb-sd-card-only-at-best-buy/14935381");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("103", "Canon PowerShot ELPH 180", "https://images-na.ssl-images-amazon.com/images/I/81TaKKV8wdL._AC_SL1500_.jpg", "For those wanting a simple way to capture moments with family friends and more the slim stylish PowerShot ELPH 180 camera has easy-to-use features to help create photos that are as stunning as you want. The 8x Optical Zoom lets you get close to the action while the 20.0 Megapixel* CCD sensor with DIGIC 4+ Image Processor help produce vibrant clear images to share or print. Take more than just still images with the ability to record movies at 720p HD. For added convenience Smart AUTO figures out suitable settings for what you''re photographing so you don''t have to worry about finding a picture mode yourself. To help reduce the effects of camera shake Digital IS helps keep blur to a minimum. On top of that the Auto Zoom feature can automatically close in on your subject and keep it in focus for easy shooting.", "Batteries ‏ : ‎ 1 Lithium Polymer batteries required. (included)
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 9.52 x 2.21 x 5.43 cm; 124.74 Grams
+Date First Available ‏ : ‎ Jan. 8 2016
+Manufacturer ‏ : ‎ Canon Canada (Direct)
+Place of Business ‏ : ‎ BRAMPTON, ON, L6Y 5Z7 CA
+ASIN ‏ : ‎ B019UDHT6U
+Item model number ‏ : ‎ 1096C001", "https://www.amazon.ca/Canon-PowerShot-ELPH-Sensor-Optical/dp/B019UDHT6U/ref=pd_di_sccai_3/132-7245197-5750229?pd_rd_w=Ulm5b&pf_rd_p=e92f388e-b766-4f7f-aac1-ee1d0056e8fb&pf_rd_r=35YJXJZXDHKN3SYEQHFM&pd_rd_r=3791b137-c1d2-44bc-ab26-a8630bb42072&pd_rd_wg=Y0ImG&pd_rd_i=B019UDHT6U&psc=1", "https://www.newegg.ca/p/0UP-000F-01616?Description=Canon%20PowerShot%20ELPH%20180&cm_re=Canon_PowerShot%20ELPH%20180-_-9SIAFY7EEN8774-_-Product", "https://www.bestbuy.ca/en-ca/product/canon-canon-powershot-elph-180-20-0mp-8x-optical-zoom-digital-camera-red-1096c001/10406707");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("103", "Canon PowerShot G7 X Mark II ", "https://images-na.ssl-images-amazon.com/images/I/416b8xNfDJL._AC_.jpg", "Illuminate Your Passion. Stay inspired with the Power Shot G7 X Mark II camera, which combines exhilarating speed and performance with a smart, compact design. It can be ideal for travel, events and anywhere on the go, or as a secondary camera, and features a high-performance 1.0-inch 20.1 Megapixel CMOS sensor as well as a bright f/1.8-2.8 lens to help capture impressive images whenever your creativity sparks, even in low light conditions. The new DIGIC 7 Image Processor immediately pays dividends with improved auto focus tracking, enhanced IS and superb image clarity even when shooting with a high ISO. For increased flexibility, the Power Shot G7 X Mark II offers high-speed continuous shooting up to 8 fps in RAW, JPEG and RAW plus JPEG modes, and is equipped with Full HD capability, built-in Wi-Fi and NFC and in-camera RAW conversion, giving you everything you need to capture inspiring images and video and share them with ease. Supported operating system - Windows 10 / 8.1 / 8 / 7 SP1 ¹ Mac OS X 10.9 / 10.10 / 10.11 For Wi-Fi connection to a PC: Windows 10 / 8.1 / 8 / 7 SP1 Mac OS X 10.9 / 10.10 For Image Transfer Utility: Windows 10 / 8.1 / 8 / 7 SP1 Mac OS X 10.9 / 10.10 / 10.11.", "Batteries ‏ : ‎ 1 Lithium Metal batteries required. (included)
+Is Discontinued By Manufacturer ‏ : ‎ No
+Product Dimensions ‏ : ‎ 4.19 x 6.1 x 10.54 cm; 453.59 Grams
+Date First Available ‏ : ‎ May 19 2016
+Manufacturer ‏ : ‎ Canon Cameras
+Place of Business ‏ : ‎ BRAMPTON, ON, L6Y 5Z7 CA
+ASIN ‏ : ‎ B01BV14OXA
+Item model number ‏ : ‎ 1066C001", "https://www.amazon.ca/Canon-PowerShot-Mark-Digital-Camera/dp/B01BV14OXA/ref=pd_di_sccai_8/132-7245197-5750229?pd_rd_w=WJvaQ&pf_rd_p=e92f388e-b766-4f7f-aac1-ee1d0056e8fb&pf_rd_r=ERT9D242KGKV3XH6QN40&pd_rd_r=7ae25090-0b92-49d8-8829-78addf4a456e&pd_rd_wg=t9tKt&pd_rd_i=B01BV14OXA&psc=1", "https://www.newegg.ca/canon-powershot-g7-x-mark-ii-compact/p/N82E16830120850?Description=Canon%20PowerShot%20G7%20X%20Mark%20II&cm_re=Canon_PowerShot%20G7%20X%20Mark%20II-_-30-120-850-_-Product", "https://www.bestbuy.ca/en-ca/product/canon-powershot-g7-x-mark-ii-wi-fi-20-1mp-4-2x-optical-zoom-digital-camera-black-1066c001/10414355");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("104", "Sony X950H 55-inch", "https://images-na.ssl-images-amazon.com/images/I/61AZHTzK-dL._AC_SL1080_.jpg", "Explore a new level of contrast with the Picture Processor X1 Ultimate. With advanced Full Array LED technology, you''ll see crystal-clear 4K HDR images in everything you watch. Bright and dark scenes feel more natural, and colours are even more true to life with the Triluminos display.", "Brand	‎Sony
+Manufacturer	‎Sony
+Place of Business	‎SAN DIEGO, CA, 92127 US
+Model	‎XBR55X950H
+Model Name	‎XBR55X950H
+Model Year	‎2020
+Part Number	‎XBR55X950H
+OS	‎Android
+Hardware interface	‎Bluetooth, USB, Ethernet, HDMI, 802.11 ac/b/g/n
+Scanner Resolution	‎4K
+Mounting Hardware	‎Table top stand, AC power cord, voice remote control, batteries, quick setup guide, operating instructions
+Number Of Items	‎1
+Display Technology	‎LED
+Standing screen display size	‎54.6 Inches
+Display Type	‎LED
+Image Aspect Ratio	‎16:9
+Resolution	‎3840 x 2160 Pixels
+Max Resolution	‎3840 Pixels
+Batteries included	‎Yes
+batteries required	‎Yes
+Battery cell composition	‎Alkaline
+Refresh rate	‎120 Hz
+Total Usb Ports	‎3
+Connector Type	‎Wireless, Bluetooth, USB, Ethernet, HDMI
+Mounting type	‎Table Mount, Wall Mount
+Contains Liquid Contents	‎No
+Includes Rechargable Battery	‎No
+Remote control included?	‎Yes
+Manufacturer	‎Sony
+Item model number	‎XBR55X950H
+Product Dimensions	‎123.19 x 31.12 x 78.11 cm; 18.1 Kilograms
+ASIN	‎B0846NH8ST", "https://www.amazon.ca/Sony-55-inch-Android-Vision-XBR55X950H/dp/B0846NH8ST/ref=sxin_9?asc_contentid=amzn1.osa.526731d6-cca6-456e-bcb1-1a98bfc0f4a6.A2EUQ1WTGCTBG2.en_CA&asc_contenttype=article&ascsubtag=amzn1.osa.526731d6-cca6-456e-bcb1-1a98bfc0f4a6.A2EUQ1WTGCTBG2.en_CA&creativeASIN=B0846NH8ST&cv_ct_cx=tv&cv_ct_id=amzn1.osa.526731d6-cca6-456e-bcb1-1a98bfc0f4a6.A2EUQ1WTGCTBG2.en_CA&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-earns-comm&dchild=1&keywords=tv&linkCode=oas&pd_rd_i=B0846NH8ST&pd_rd_r=39254f86-8557-49da-a3c9-5b37d875a8b5&pd_rd_w=M5HQg&pd_rd_wg=2zGrZ&pf_rd_p=fd4969f1-ce1a-42e7-85d6-f4cb7192108a&pf_rd_r=526B4BTC34QPV39PKTPT&qid=1624465504&s=electronics&sr=1-1-64f3a41a-73ca-403a-923c-8152c45485fe&tag=rfdosp05-20", "", "https://www.bestbuy.ca/en-ca/product/sony-55-4k-uhd-hdr-led-android-smart-tv-xbr55x950h/14470547");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("104", "Samsung 65"" Q80T", "https://images-na.ssl-images-amazon.com/images/I/61-HUCA9CvL._AC_SL1500_.jpg", "Experience every detail with precision picture and dynamic sound. With Direct Full Array 12X and Quantum HDR 12X, rich blacks and crisp, bright whites offer the ultimate contrast and depth for an amazingly realistic picture. With 4K resolution, you will enjoy one of our most adaptive picture experiences yet, as Samsung’s powerful quantum processor optimizes to any viewing condition and improves the quality of all your content. Powerful 4K AI upscaling ensures you always get the full impact of 4K, no matter the quality or source of your content. Plus, Object Tracking Sound creates an immersive, 3D sound that follows the motion on the screen so you really feel like you are a part of every scene.", "Brand	‎Samsung
+Manufacturer	‎Samsung
+Place of Business	‎Mississauga, ON L5M 9Z9, CA
+Model	‎QN65Q80TAFXZC
+Model Name	‎QN65Q80TAFXZC
+Model Year	‎2020
+Part Number	‎QN65Q80TAFXZC
+Hardware interface	‎Bluetooth, USB, Ethernet, HDMI
+Scanner Resolution	‎4K
+Mounting Hardware	‎Batteries for Remote Control, Remote Control, Manual, Cables
+Number Of Items	‎1
+Remote Control Description	‎Standard Smart w/BT
+Display Technology	‎QLED
+Standing screen display size	‎65 Inches
+Display Type	‎QLED
+Image Aspect Ratio	‎16:9
+Resolution	‎3,840 x 2,160 Pixels
+Power source type	‎Corded Electric
+Batteries included	‎Yes
+batteries required	‎No
+Battery cell composition	‎Alkaline
+Refresh rate	‎240 Hz
+Total Usb Ports	‎2
+Connector Type	‎Bluetooth, USB x 2, HDMI x 4 (eARC included), Ethernet (LAN), Digital Audio Out x 1 (Optical), RF In x 1 (Cable input), WiFi (802.11ac)
+Mounting type	‎Table Mount, Wall Mount
+Contains Liquid Contents	‎No
+Includes Rechargable Battery	‎No
+Remote control included?	‎Yes
+Manufacturer	‎Samsung
+Item model number	‎QN65Q80TAFXZC
+Product Dimensions	‎28.91 x 144.65 x 90.57 cm; 27.8 Kilograms
+ASIN	‎B084ZVZXKL", "https://www.amazon.ca/Samsung-Ultra-QN65Q80TAFXZC-Canada-Version/dp/B084ZVZXKL/ref=pd_vtp_3/132-7245197-5750229?pd_rd_w=M7Pwi&pf_rd_p=42ad2502-0d93-40f9-bcf4-49a0657bb461&pf_rd_r=DP1MB6GMY633N3FTJK2M&pd_rd_r=abc7e2ef-6045-4830-b0d0-9a0af10a4f4b&pd_rd_wg=KMtR0&pd_rd_i=B084ZVZXKL&psc=1", "", "https://www.bestbuy.ca/en-ca/product/samsung-65-class-q8-series-4k-ultra-hd-smart-hdr-qled-tv-qn65q8dt-qn65q80t-refurbished/15054856");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("104", "Logitech Z906", "https://images-na.ssl-images-amazon.com/images/I/81eR41G4ydL._AC_SL1500_.jpg", "Make any night opening night and deliver thunderous audio that can shake your house and your whole neighbourhood. Logitech Surround Sound Speakers 5.1 System delivers 500 watts (RMS) of thunderous audio, plus THX Certification and onboard 5.1 digital decoding for immersive surround sound.", "RAM	‎4 GB
+Average Battery Life (in hours)	‎8 Hours
+Brand	‎Logitech
+Item model number	‎980-000467
+Product Dimensions	‎38.61 x 43.18 x 43.94 cm; 8.89 Kilograms
+Item Dimensions L x W x H	‎38.6 x 43.2 x 43.9 centimeters
+Color	‎Black
+Number of Processors	‎1
+Memory Type	‎72-Pin EDO SIMM Memory
+Power Source	‎Battery Powered
+Voltage	‎20 Volts
+Batteries	‎1 Lithium Metal batteries required.", "https://www.amazon.ca/Logitech-Surround-Speaker-System-980-000467/dp/B004M18O60/ref=sr_1_9?dchild=1&keywords=home+theatre&qid=1624465845&s=electronics&sr=1-9", "https://www.newegg.ca/black-logitech-z906-others/p/N82E16836121050?Description=Logitech%20Z906&cm_re=Logitech_Z906-_-36-121-050-_-Product", "https://www.bestbuy.ca/en-ca/product/logitech-logitech-z906-5-1-computer-speakers-system-980-000467/10179850");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("104", "BenQ HT2050A 1080P Home Theater Projector", "https://images-na.ssl-images-amazon.com/images/I/61HACIc68fL._AC_SL1000_.jpg", "Superb Big-Screen Audiovisual Experience BenQ HT2050A projector brings big-screen Full HD visuals to your living room, with >96% Rec. 709 accuracy for authentic cinematic color and short throw for 100"" pictures from just 2. 5m away without setup hassle. Offering Cinema Master Audio+ 2 for immersive AV experiences, HT2050A''s ultra-low input lag and special Game Mode enable epic gaming.", "Brand Name	‎BenQ
+Product Dimensions	‎38.1 x 27.94 x 12.7 cm; 3.63 Kilograms
+Item model number	‎HT2050A
+Is Discontinued By Manufacturer	‎No
+Item display height	‎14 inches
+Manufacturer	‎BenQ
+Place of Business	‎COSTA MESA, CA, 92626 US
+ASIN	‎B077TG22H3", "https://www.amazon.ca/BenQ-HT2050A-Theater-Projector-Keystone/dp/B077TG22H3/ref=sr_1_13?dchild=1&keywords=home+theatre&qid=1624465937&s=electronics&sr=1-13", "https://www.newegg.ca/benq-ht2050a-dlp/p/1B4-00BC-00004?Description=BenQ%20HT2050A&cm_re=BenQ_HT2050A-_-1B4-00BC-00004-_-Product", "https://www.bestbuy.ca/en-ca/product/benq-1080p-home-theatre-projector-ht2050a/12393811");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("104", "AMAHA RX-V4A 5.2-Channel AV Receiver", "https://images-na.ssl-images-amazon.com/images/I/71DDqrs%2B7QL._AC_SL1500_.jpg", "Enter the world of home theater with the V4A. This AV receiver will completely transform how you listen and watch at home. Plus, plenty of features means plenty of choices on how to enjoy your entertainment.", "
+Brand	‎Yamaha
+Manufacturer	‎YAMAHA
+Model	‎RX-V4ABL
+Part Number	‎RX-V4ABL
+Mounting Hardware	‎Remote Controller
+Number Of Items	‎1
+Audio Details	‎Speakers
+Speaker surround sound channel configuration	‎5.1 Channel
+Batteries included	‎No
+batteries required	‎No
+Connector Type	‎AirPlay, Wi-Fi, HDMI
+Manufacturer	‎YAMAHA
+Item model number	‎RX-V4ABL
+Product Dimensions	‎50.8 x 45.72 x 27.94 cm; 8.85 Kilograms
+ASIN	‎B08CKGYLNS", "https://www.amazon.ca/YAMAHA-RX-V4A-5-2-Channel-Receiver-MusicCast/dp/B08CKGYLNS/ref=sr_1_2?dchild=1&keywords=Yamaha+RX-V4A&qid=1624467265&s=electronics&sr=1-2", "", "https://www.bestbuy.ca/en-ca/product/yamaha-rx-v4a-5-2-channel-av-receiver-with-musiccast/15088082");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("105", "UMIDIGI Smart Watch", "https://images-na.ssl-images-amazon.com/images/I/61TO9r5l5zL._AC_SL1000_.jpg", "Smart Watch for Men WomenUwatch3 GPS smartwatch is equipped with a 1.3"" high-definition full-touch display screen, with built-in GPS (no need to connect to phone), activity tracker, heart rate monitor, 14 sport modes, sleep monitor, women menstrual cycle calculation, Call, SMS and APP messages, music control, weather report, sedentary reminder, alarm clock, stopwatch, timer, find phone, call rejection, brightness adjustment and other functions to meet your daily needs.Accurate Fitness Tracker", "Parcel Dimensions	‎16.6 x 7.2 x 3.7 cm; 160 Grams
+Item model number	‎Uwatch3 GPS
+Connectivity technologies	‎GPS
+Other display features	‎Wireless
+Colour	‎Onyx Black
+Item Weight	‎160 g", "https://www.amazon.ca/UMIDIGI-Activity-Waterproof-Smartwatch-Compatible/dp/B08H25T84C/ref=sr_1_4?crid=2T7Q9I4CZRBB2&dchild=1&keywords=wearable+technology&qid=1624467344&s=electronics&sprefix=wearable+techno%2Celectronics%2C150&sr=1-4", "https://www.newegg.ca/p/00H-06SC-00040?Description=UMIDIGI%20Smart%20Watch&cm_re=UMIDIGI_Smart%20Watch-_-9SIAN7DDSS4830-_-Product", "https://www.bestbuy.ca/en-ca/product/umidigi-smart-watch-built-in-gps-fitness-tracker-heart-rate-monitor-activity-tracker-with-1-3quot-touch-screen-5atm-waterproof-axgear/15339823");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("105", "Garmin vívosmart 4, Activity and Fitness Tracker", "https://images-na.ssl-images-amazon.com/images/I/512Yb5Q-O-L._AC_SL1000_.jpg", "Accent your style while enhancing your fitness with our vívosmart 4 activity tracker. This slim, swim-friendly wearable comes loaded with fitness and wellness features to help you make the most of a healthier, more active lifestyle. A wrist-based pulse ox sensor lets you estimate blood oxygen saturation while you’re sleeping - or you can spot-check your oxygen levels anytime during the day. (This is not a medical device and is not intended for use in the diagnosis or monitoring of any medical condition) the device also monitors heart rate at the wrist and includes such helpful tools as all-day stress tracking, a relaxation breathing timer and VO2 Max readings. Plus, body battery energy monitoring helps you know when you’re primed to be active or when you may need to rest. Safe for the pool or shower, vívosmart 4 keeps you going strong with up to 7 days of battery life - while smart notifications with vibration alerts help you stay connected on the go (When connected to a compatible smartphone).", "
+Product Dimensions	‎19.05 x 0.51 x 1.27 cm; 18.14 Grams
+Batteries	‎1 A batteries required. (included)
+Item model number	‎010-01995-12
+Connectivity technologies	‎Bluetooth
+Display technology	‎LCD
+Other display features	‎Wireless
+Device interface - primary	‎Touchscreen
+Form Factor	‎Watch
+Colour	‎Rose Gold With Gray Band
+Included Components	‎Activity Tracker
+Item Weight	‎18.1 g", "https://www.amazon.ca/Garmin-v%C3%ADvosmart-Activity-Fitness-Tracker/dp/B07GMCBQD1/ref=sr_1_43?crid=2T7Q9I4CZRBB2&dchild=1&keywords=wearable+technology&qid=1624467483&s=electronics&sprefix=wearable+techno%2Celectronics%2C150&sr=1-43", "", "");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("105", "HUAWEI Watch FIT Smartwatch", "https://images-na.ssl-images-amazon.com/images/I/6117sdeNKLS._AC_SL1500_.jpg", "10 Days Battery Life Quick Charge TechnologyFeaturing the dual chipset architecture and power-saving algorithms, this watch can last for 10 days. And with the quick charge technology, the watch can support you a whole day with only 5-minute charge.96 Workout ModesHUAWEI WATCH FIT provides precise and real-time workout metrics for 11 professional sport modes including running, swimming and cycling. The 85 custom workout modes allow you to unleash your potential, whether you''re into yoga or hig", "
+Brand	‎HUAWEI
+Manufacturer	‎HUAWEI
+Model	‎55025869
+Part Number	‎55025869
+Memory storage capacity	‎4 GB
+Standing screen display size	‎1.64 Millimeters
+Color Screen	‎Yes
+Battery Average Life	‎10 days
+Batteries included	‎Yes
+batteries required	‎No
+Battery cell composition	‎Lithium Ion
+Wireless Standard	‎Bluetooth, 2.4 GHz Radio Frequency
+Connector Type	‎GPS
+Device interface - primary	‎Touchscreen, Microphone, Buttons
+Includes Rechargable Battery	‎Yes
+Remote control included?	‎No
+Manufacturer	‎HUAWEI
+Item model number	‎55025869
+Product Dimensions	‎4.6 x 3 x 1.07 cm; 21 Grams
+ASIN	‎B08G58CGT9", "https://www.amazon.ca/HUAWEI-Smartwatch-Saturation-Detection-Monitoring/dp/B08G58CGT9/ref=sr_1_32?crid=2T7Q9I4CZRBB2&dchild=1&keywords=wearable+technology&qid=1624467483&s=electronics&sprefix=wearable+techno%2Celectronics%2C150&sr=1-32", "https://www.newegg.ca/p/N82E16886611062?Description=HUAWEI%20Watch%20FIT%20Smartwatch&cm_re=HUAWEI_Watch%20FIT%20Smartwatch-_-86-611-062-_-Product", "https://www.bestbuy.ca/en-ca/product/huawei-watch-fit-smartwatch-1-64rdquo-vivid-amoled-display-10-days-battery-life-built-in-gps-axgear/15339787");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("105", "Huawei Honor Band 5", "https://images-na.ssl-images-amazon.com/images/I/51qqTT87GoL._AC_SL1024_.jpg", "Honor Band 5i Fitness TrackerFitness Tracker BandHonor Band 5i Fitness Tracker, Activity Trackers Health Exercise Watch with Heart Rate and Sleep Monitor, Smart Band Calorie Counter, Step Counter, Pedometer Walking for Men Women and Kids.", "Name: Huawei Honor
+Band 5 Screen Size: 0.95 ’’ AMOLED color display
+Screen Pixel: 240 × 120
+Weight: About 22.7 g (Including Wristband) Dimensions of the
+Fitness Tracker: 43mm × 17.2 mm × 11.5 mm
+Compatible with: Android 4.4 /iOS 9.0 or Later
+Battery Capacity: Typical
+Value 100mAh Button: Full Screen Touch + Home
+Button Wireless Connectivity: Bluetooth band 2.4GH z; Bluetooth 4.2 protocol
+Charging Interface: 2 PIN charging interface
+Charging Method: Connect to the charging base through the buckle
+Sensors: 6-axis inertial sensor; Separate PPG heart rate meter; Infrared light wearing detection sensor
+Waterproof Rating: Supports 5ATM waterproof
+Control Mode: Full Screen Touch + Home
+Button Screen: AMOLED
+Color Display Installation: 1. To download and install the “Huawei Health” app, you can scan the QR code on the left, or search for “Huawei Health” app in the Google Play Store or Apple App Store. 2. From the device list in the “Huawei Health” app, select the Band and follow the instructions on the screen to complete the pairing.", "https://www.amazon.ca/Bracelet-Monitor-Activity-Tracker-Waterproof/dp/B07VZSSN4K/ref=pd_di_sccai_6/132-7245197-5750229?pd_rd_w=XCAmZ&pf_rd_p=e92f388e-b766-4f7f-aac1-ee1d0056e8fb&pf_rd_r=56B6XPB63DEAXADFWECN&pd_rd_r=ae2d27c7-8059-4099-969b-57bad56d5cdc&pd_rd_wg=8wyA4&pd_rd_i=B07W5HW2RP&th=1", "https://www.newegg.ca/p/2T2-00JW-00021?Description=Huawei%20Honor%20Band%205&cm_re=Huawei_Honor%20Band%205-_-9SIAEMM9U04380-_-Product", "https://www.bestbuy.ca/en-ca/product/fitness-tracker-band-5i-0-96-inch-smart-bluetooth-bracelet-spo2-blood-oxygen-detection-24-hour-heart-rate-monitoring-huawei-trusleep-3-5-all-in-one-activity-tracker-5atm-waterproof/14925511");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("105", "Samsung Galaxy Watch Active", "https://images-na.ssl-images-amazon.com/images/I/71THVSy2p-L._AC_SL1500_.jpg", "Your fitness and style go hand-in-hand with the Samsung Galaxy Watch Active. This elegantly and intelligently designed smartwatch offers real-time goal tracking for calories, distance, and over 40 exercises. It responds to your voice commands and syncs with your phone and Samsung SmartThings devices, so you can set alarms, answer texts, stream music, and more.
+", "Brand	‎Samsung
+Manufacturer	‎Samsung
+Place of Business	‎Mississauga, ON L5M 9Z9, CA
+Model	‎SMR500NZSAXAC
+Model Name	‎Galaxy Active
+Part Number	‎SMR500NZSAXAC
+Compatible Devices	‎Android, Gear, Galaxy, iPhone, Ipod, galaxy, iphone, Lg
+Mounting Hardware	‎Wearables
+Number Of Items	‎1
+Display Technology	‎AMOLED
+Battery Average Life	‎96 Hours
+Batteries included	‎Yes
+batteries required	‎No
+Battery cell composition	‎Lithium Ion
+Form Factor	‎Watch
+Department	‎Men;women;sport
+Manufacturer	‎Samsung
+Item model number	‎SMR500NZSAXAC
+Product Dimensions	‎2.54 x 2.54 x 2.54 cm; 49.9 Grams
+ASIN	‎B07NPZHTL1", "https://www.amazon.ca/Samsung-Galaxy-Watch-Active-Silver/dp/B07NPZHTL1/ref=sr_1_4?crid=2U580W9RBNBCM&dchild=1&keywords=wearable+technology&qid=1624467894&sprefix=wearable+technolog%2Csporting%2C163&sr=8-4", "", "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-watch-active-40mm-smartwatch-with-heart-rate-monitor-silver/13399167");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("106", "Echo Dot (4th Gen)", "https://images-na.ssl-images-amazon.com/images/I/71fnXKyRa4L._AC_SL1000_.jpg", "Round out any room with the Amazon Echo Dot (4th Gen). This smart speaker delivers clear, crisp vocals and balanced bass, while its sleek, compact design fits perfectly into small spaces. With built-in Amazon Alexa, use your voice commands to ask Alexa to play music, answer questions, give you the news and weather, and much more.", "Voice Control
+Yes
+Voice Assistant Built-In
+Amazon Alexa
+Apps
+Alexa
+Manual Control
+Yes
+Gesture/Motion Control
+No
+Compatibility
+Works with Google Assistant
+No
+Works with Amazon Alexa
+Yes
+Works with Apple HomeKit
+No
+Features
+Touchscreen
+No
+Ambient Light Sensor
+No
+Clock
+No
+Operating environment
+Indoor
+Colour
+Charcoal
+Connectivity
+Wi-Fi
+Yes
+Connectivity
+Dual-band Wi-Fi supports 802.11 a/b/g/n/ac (2.4 and 5 GHz) networks. Does not support connecting to ad-hoc (or peer-to-peer) Wi-Fi networks.
+Camera Features
+Auto Follow
+No
+Audio Features
+Speaker
+Yes
+Audio Output
+3.5mm Audio Jack stereo output
+Dolby Atmos
+No
+Power
+USB
+No", "https://www.amazon.ca/echo-dot-4th-gen/dp/B07XJ8C8F5/ref=sxin_9_ac_d_pm?ac_md=2-0-VW5kZXIgJDEwMA%3D%3D-ac_d_pm&cv_ct_cx=smart%2Bhome&dchild=1&keywords=smart%2Bhome&pd_rd_i=B07XJ8C8F5&pd_rd_r=3192c63f-3545-4061-bc2d-78b988626166&pd_rd_w=p3XLW&pd_rd_wg=KbR1I&pf_rd_p=91306e33-c4f0-4840-841a-2c1cc90dc993&pf_rd_r=2YXPWHG8T8GV33HYP5W8&qid=1624468003&sr=1-1-9b8a9368-31c9-458d-b359-d6edf7d5a732&th=1", "", "https://www.bestbuy.ca/en-ca/product/amazon-echo-dot-4th-gen-smart-speaker-with-alexa-charcoal/14966503");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("106", "Echo Dot (3rd gen)", "https://images-na.ssl-images-amazon.com/images/I/6182S7MYC2L._AC_SL1000_.jpg", "Add simple yet powerful voice-assistance to any room in an instant with the Amazon Echo Dot. It features a redesigned look and richer, louder sound that’s great for streaming audio and music. It’s also a big help around the house. Ask it to play music, read the news, set alarms, dim the lights, increase the temperature, or lock the front door.", "Type
+Smart Speaker
+Colour
+Charcoal
+Voice Control
+Yes
+Voice Assistant Built-In
+Amazon Alexa
+Compatibility
+Works with Google Assistant
+No
+Works with Amazon Alexa
+Yes
+Works with Apple HomeKit
+No
+Features
+Touchscreen
+No
+Operating environment
+Indoor
+Colour
+Charcoal
+Connectivity
+Wi-Fi
+Yes
+Bluetooth
+v2.1+EDR, v3.0+HS and v4.2+HS compliant
+Connectivity
+Zigbee; Bluetooth; Wi-Fi
+Wireless Technology
+Dual Band 802.11 a/b/g/n/ac
+Audio Features
+Speaker
+Yes
+Audio Output
+3.5mm line-out
+Power
+Operating Voltage
+12V DC Adapter
+Dimension
+Width
+9.9 cm
+Height
+4.3 cm
+Depth
+9.9 cm
+Weight
+300 g", "https://www.amazon.ca/Echo-Dot-3rd-gen-Charcoal/dp/B07PDHT5XP/ref=sr_1_19?dchild=1&keywords=smart+home&qid=1624468140&sr=8-19", "https://www.newegg.ca/p/0YH-03MR-00V86?Description=Echo%20Dot%20(3rd%20gen)&cm_re=Echo_Dot%20(3rd%20gen)-_-9SIAKGNEJ02605-_-Product", "https://www.bestbuy.ca/en-ca/product/amazon-echo-dot-3rd-gen-smart-speaker-with-alexa-charcoal/13023977");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("106", "TP-Link Tapo Smart Home Security WiFi Camera", "https://images-na.ssl-images-amazon.com/images/I/71P2KISLXgL._AC_SL1500_.jpg", "High Definition Video - Records every image in crystal-clear 1080p definition; Advanced Night Vision - Provides a visual distance of up to 30 ft
+Motion Detection and Notifications - Notifies you when the camera detects movement
+Sound and Light Alarm - Trigger light and sound effects to frighten away unwanted visitors
+Two-Way Audio - Enables communication through a built-in microphone and speaker
+Safe Storage - Locally stores up to 128 GB on a microSD card, equal to 384 hours (16 days) of footage (based on laboratory conditions); Easy Setup and Management - Manage everything with Tapo app", "Brand	‎TP-Link
+Manufacturer	‎TP-Link Canada
+Place of Business	‎Richmond Hill, ON L4B 1J5, CA
+Model	‎Tapo C100
+Model Name	‎Tapo C100
+Model Year	‎2019
+Part Number	‎Tapo C100
+Scanner Resolution	‎1080p
+Mounting Hardware	‎Tapo C100
+Number Of Items	‎1
+Video capture resolution	‎1080p
+Voltage	‎9 Volts
+batteries required	‎No
+Material Type	‎Plastic
+Contains Liquid Contents	‎No
+Has Self Timer	‎No
+Manufacturer	‎TP-Link Canada
+Item model number	‎Tapo C100
+Product Dimensions	‎9.91 x 6.86 x 5.33 cm; 230 Grams
+ASIN	‎B0866S3D82", "https://www.amazon.ca/TP-Link-Tapo-Security-Records-C100/dp/B0866S3D82/ref=sr_1_35?dchild=1&keywords=smart+home&qid=1624468140&sr=8-35", "https://www.newegg.ca/p/09Z-01WA-00012?Description=TP-Link%20Tapo%20Smart%20Home%20Security%20WiFi%20Camera&cm_re=TP-Link_Tapo%20Smart%20Home%20Security%20WiFi%20Camera-_-09Z-01WA-00012-_-Product", "https://www.bestbuy.ca/en-ca/product/tp-link-security-camera-tapo-smart-home-security-wifi-camera-records-in-1080p-full-hd-up-to-30-ft-night-vision-up-to-128-gb-microsd-card-slot-works-w-alexa-and-google-tapo-c100/15341993");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("106", "LEVOIT Smart WiFi Air Purifiers ", "https://images-na.ssl-images-amazon.com/images/I/61b32sDzfML._AC_SL1500_.jpg", "Voice Command to Control: Levoit Smart Wifi Air Purifier works with Alexa and Google Home Assistant. Just give a simple voice command to control your air purifier with Vesync app via Alexa or Google Home Assistant. Levoit Smart Wifi Air Purifier works with stable 2.4GHz networkSmart Remote Control: No need to use smart plug. Use your smartphone to directly control air purifier anytime anywhere, always breathe fresh air when arrive at home. Vesync App comes with advanced features including dire", "Enjoy full control of Levoit’s LV-PUR131S Smart True HEPA Air Purifier whether you’re at home or away. All you have to do is download the free VeSync app to turn your phone into a convenient remote control for your air purifier.", "https://www.amazon.ca/Purifier-Cleaner-Allergies-Eliminator-LV-PUR131S/dp/B07NR9KL8J/ref=sr_1_7?dchild=1&keywords=smart%2Bhome&qid=1624468386&sr=8-7&th=1", "", "https://www.bestbuy.ca/en-ca/product/levoit-smart-wi-fi-air-purifier-for-home-true-hepa-filter-smoke-eater-and-odor-eliminator-cleaner-for-allergies-and-pets-mold-axgear/15456903");
+INSERT INTO products(p_category, p_name, p_image, p_description,p_specs, p_amazon, p_newegg, p_bestbuy) VALUES ("106", "Brilliant Smart Home Control (3-Switch Panel)", "https://images-na.ssl-images-amazon.com/images/I/71mwwqzLWIL._AC_SL1500_.jpg", "Transform your house or apartment into an easy-to-use smart home with the award-winning Brilliant Smart Home Control System. Brilliant’s touchscreen control panel with built-in Alexa voice control makes it easy for everyone—spouses, kids, family, friends, guests, babysitters, and pet sitters—to use your home and all available smart home features: lighting, cameras, locks, music, climate, intercom, scenes, and more. Just select the room or rooms where you want to add easy smart home access and install a Brilliant Smart Home Control in the place of any light switch panel. Brilliant also includes an all-in-one app to control your home from anywhere. Brilliant works with a growing list of the top smart home brands including Alexa, Ring, Sonos, Hue, Google Nest, LIFX, Wemo, Honeywell Home, Ecobee, Schlage, Yale, August, SmartThings, Apple HomeKit, Genie, and more. Each Brilliant Control also includes a built-in camera with privacy shutter and motion sensor. Brilliant Control Panels are available in four models to replace any light switch panel with one to four switches (neutral and ground wires required).
+
+", "
+Manufacturer	‎Brilliant
+Part Number	‎BHA120US-WH3
+Parcel Dimensions	‎23.3 x 17.7 x 6.1 cm; 923 Grams
+Manufacturer reference	‎BHA120US-WH3
+Is Discontinued By Manufacturer	‎No
+Size	‎3-Switch Panel
+Item Package Quantity	‎1
+Batteries Included?	‎No
+Batteries Required?	‎No
+Item Weight	‎923 g", "https://www.amazon.ca/Brilliant-Control-Lighting-Switch-Version/dp/B07C6PPCCH/ref=sr_1_31?dchild=1&keywords=smart%2Bhome&qid=1624468140&sr=8-31&th=1", "", "https://www.bestbuy.ca/en-ca/product/brilliant-smart-home-control-3-switch-panel/15481934");
